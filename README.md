@@ -1,10 +1,10 @@
 # Reinforcement-Learning-On-Robocode
 
 An overview of all the classes:
-1, Parent class LUTRobot is the implementation of Q-Learing with intermediate reward. 
-2, Child class LUTRobotTermialRewardOnly is the implementation of Q-Learing with terminal reward only.  
-3, Child class LUTRobotWithSarsa is the implementation of Sarsa.  
-4, Class LUTable is the implementation of lookup table.   
+1, Parent class LUTRobot is the implementation of Q-Learing with intermediate reward.   
+2, Child class LUTRobotTermialRewardOnly is the implementation of Q-Learing with terminal reward only.     
+3, Child class LUTRobotWithSarsa is the implementation of Sarsa.      
+4, Class LUTable is the implementation of lookup table.     
 
 The purpose of the implementation:  
 In this part we implement Reinforcement Learning for my robot tank based on Robocode environment. Before implementation, the following
