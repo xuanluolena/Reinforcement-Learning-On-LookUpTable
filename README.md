@@ -7,7 +7,7 @@ An overview of all the classes:
 4, Class LUTable is the implementation of lookup table.     
 
 The purpose of the implementation:  
-In this part we implement Reinforcement Learning for my robot tank based on Robocode environment. Before implementation, the following
+In this part I implement Reinforcement Learning for my robot tank based on Robocode environment. Before implementation, the following
 needs to be decided:  
 1, which actions I would like to support  
 2, when & how to generate rewards.  
